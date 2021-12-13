@@ -1,0 +1,54 @@
+.container {
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+  background-color: darkgrey;
+  height: 56px;
+  font-size: xx-large;
+  color: white;
+  margin-bottom: 40px;
+  margin-top: 45px;
+  width: 323px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 700;
+  padding: 15px;
+}
+
+form {
+  margin: auto;
+  width: max-content;
+}
+
+select {
+  height: 40px;
+  width: 170px;
+  margin: 5px;
+}
+
+.radioButtons {
+  text-align-last: center;
+  height: 60px;
+  margin-top: 25px;
+}
+
+.submit {
+  height: 40px;
+  width: 100px;
+  margin-bottom: 30px;
+}
+
+div {
+  text-align-last: center;
+}
+
+.tripsDepartureArrival {
+  font-size: larger;
+  color: blueviolet;
+}
+
+hr {
+  width: 700px;
+}
